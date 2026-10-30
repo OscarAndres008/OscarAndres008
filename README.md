@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Oscar Andrés Miranda López</h1>
 <h3 align="center">Java Full Stack Developer Jr. | Ingeniero en Sistemas Computacionales | RPA Developer</h3>
 <p align="center">
-  <a href="https://oscar-miranda-portafolionetlifyapp.netlify.app/">
+  <a href="https://oscarandres008.github.io/portafolio/">
     <img src="https://img.shields.io/badge/Portafolio-Visitar-283618?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio">
   </a>
   <a href="https://www.linkedin.com/in/oscar-miranda-lopez/">
